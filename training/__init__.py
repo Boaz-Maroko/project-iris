@@ -1,0 +1,1 @@
+from .training import knn_predict
