@@ -1,10 +1,10 @@
 # Ignore the following directories
-/venv
-/pycache
-/_pycache
-/__pycache
-/pycache_
-/*pycache*
+venv/
+pycache/
+_pycache/
+__pycache/
+pycache_/
+*pycache*/
 
 # ignore the followin files
 *.xlsx
