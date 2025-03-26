@@ -5,6 +5,7 @@ _pycache/
 __pycache/
 pycache_/
 *pycache*/
+output/
 
 # ignore the followin files
 *.xlsx
